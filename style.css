@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+main{
+    margin-top: 200px;
+    text-align: center;
+
+    line-height: 40px;
+    height: 400px;
+    background: url(img/9e800afe49475e4eadd63e6832e92e75.jpeg) center;
+    background-size: 100%;
+    border-radius: 40px;
+    color: white;
+}
+.title{
+    border: 1px solid black;
+    width: 500px;
+    margin: auto;
+    border-radius: 40px;
+}
+#password{
+    font-size: xx-large;
+    font-weight: bold;
+    color: red;
+    background-color:white ;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+
