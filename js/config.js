@@ -4,4 +4,4 @@ let userInputColor= prompt("YOUR FAVORITE COLOR");
 
 
 
-document.getElementById("password").innerHTML=userInputName+userInputSurname+userInputColor
+document.getElementById("password").innerHTML=userInputName+userInputSurname+userInputColor+21 
